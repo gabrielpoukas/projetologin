@@ -48,6 +48,9 @@ transform: translate(-50% ,-50%);
 overflow: hidden;
 box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
 
+transition: width 0.5s, height 0.5s;
+transition-timing-function: ease;
+
 }
 
 
@@ -62,7 +65,7 @@ box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.473);
 }
 
 #formulario{
-    
+
 display: block;
  padding: 12px;
 
