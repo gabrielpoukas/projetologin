@@ -1,1 +1,12 @@
 @charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=PT+Sans&display=swap');
+
+:root{
+
+--titulo: 'Alkalami', serif;
+--restante:'PT Sans', sans-serif;
+
+}
